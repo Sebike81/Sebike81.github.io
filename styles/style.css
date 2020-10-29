@@ -14,7 +14,7 @@ body {
 /* Header  */
 
 .header-container {
-    background-image: url(../Img/Banner.jpg);
+    background-image: url(../img/Banner.jpg);
     background-size: cover;
     background-position: center top;
     height: 100vh;
@@ -208,7 +208,7 @@ header {
     justify-content: space-around;
     align-items: center;
     list-style: none;
-    background-image: url(../Img/tapasztalat_hatterkep.jpg);
+    background-image: url(../img/tapasztalat_hatterkep.jpg);
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -426,7 +426,7 @@ header {
 .contact-container {
     position: relative;
     height: 800px;
-    background-image: url(../Img/kapcsolat.jpg);
+    background-image: url(../img/kapcsolat.jpg);
     background-position: center;
     background-size: cover;
 } 
